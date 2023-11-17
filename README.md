@@ -34,5 +34,3 @@ La arquitectura inicial del modelo se basó en la red neuronal preentrenada **VG
 
 El modelo entrenado se guarda para realizar predicciones. El archivo **"userTest.ipynb"** proporciona una manera interactiva de hacer predicciones con el modelo en nuevas imágenes. Además, el archivo **"app.py"** crea un servidor en **Flask** que despliega una interfaz gráfica para facilitar la carga de imágenes y realizar predicciones.
 
-¡Gracias por explorar nuestro proyecto de reconocimiento de emociones mediante Machine Learning! 🌈
-
